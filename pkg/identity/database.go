@@ -17,9 +17,9 @@ package identity
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/greenpau/go-authcrunch/internal/utils"
-	"github.com/greenpau/go-authcrunch/pkg/errors"
-	"github.com/greenpau/go-authcrunch/pkg/requests"
+	"github.com/datamixio/lib-go-authcrunch/internal/utils"
+	"github.com/datamixio/lib-go-authcrunch/pkg/errors"
+	"github.com/datamixio/lib-go-authcrunch/pkg/requests"
 	"github.com/greenpau/versioned"
 	"io/ioutil"
 	"os"
@@ -60,7 +60,7 @@ var (
 func init() {
 	app = versioned.NewPackageManager("authdb")
 	app.Description = "authdb"
-	app.Documentation = "https://github.com/greenpau/go-authcrunch"
+	app.Documentation = "https://github.com/datamixio/lib-go-authcrunch"
 	app.SetVersion(appVersion, "1.0.35")
 	app.SetGitBranch(gitBranch, "main")
 	app.SetGitCommit(gitCommit, "v1.0.35")

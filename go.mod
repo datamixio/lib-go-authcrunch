@@ -1,4 +1,4 @@
-module github.com/greenpau/go-authcrunch
+module github.com/datamixio/lib-go-authcrunch
 
 go 1.17
 

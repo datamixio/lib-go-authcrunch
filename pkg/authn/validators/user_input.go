@@ -16,7 +16,7 @@ package validators
 
 import (
 	"fmt"
-	charsetutil "github.com/greenpau/go-authcrunch/pkg/util/charset"
+	charsetutil "github.com/datamixio/lib-go-authcrunch/pkg/util/charset"
 	"net"
 	"regexp"
 	"strings"

@@ -17,14 +17,14 @@ package authcrunch
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/greenpau/go-authcrunch/pkg/authn"
-	"github.com/greenpau/go-authcrunch/pkg/authproxy"
-	"github.com/greenpau/go-authcrunch/pkg/authz"
-	"github.com/greenpau/go-authcrunch/pkg/errors"
-	"github.com/greenpau/go-authcrunch/pkg/idp"
-	"github.com/greenpau/go-authcrunch/pkg/ids"
-	"github.com/greenpau/go-authcrunch/pkg/registry"
-	"github.com/greenpau/go-authcrunch/pkg/sso"
+	"github.com/datamixio/lib-go-authcrunch/pkg/authn"
+	"github.com/datamixio/lib-go-authcrunch/pkg/authproxy"
+	"github.com/datamixio/lib-go-authcrunch/pkg/authz"
+	"github.com/datamixio/lib-go-authcrunch/pkg/errors"
+	"github.com/datamixio/lib-go-authcrunch/pkg/idp"
+	"github.com/datamixio/lib-go-authcrunch/pkg/ids"
+	"github.com/datamixio/lib-go-authcrunch/pkg/registry"
+	"github.com/datamixio/lib-go-authcrunch/pkg/sso"
 	"go.uber.org/zap"
 )
 

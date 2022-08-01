@@ -16,7 +16,7 @@ package sso
 
 import (
 	"encoding/json"
-	"github.com/greenpau/go-authcrunch/pkg/errors"
+	"github.com/datamixio/lib-go-authcrunch/pkg/errors"
 	"go.uber.org/zap"
 )
 

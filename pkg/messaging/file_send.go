@@ -15,8 +15,8 @@
 package messaging
 
 import (
-	"github.com/greenpau/go-authcrunch/pkg/errors"
-	"github.com/greenpau/go-authcrunch/pkg/util"
+	"github.com/datamixio/lib-go-authcrunch/pkg/errors"
+	"github.com/datamixio/lib-go-authcrunch/pkg/util"
 	"io/ioutil"
 	"os"
 	"path/filepath"

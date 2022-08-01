@@ -26,7 +26,7 @@ import (
 )
 
 var (
-	pr = regexp.MustCompile(`.*(github\\.com/greenpau/go-authcrunch/.*)$`)
+	pr = regexp.MustCompile(`.*(github\\.com/datamixio/lib-go-authcrunch/.*)$`)
 )
 
 // EvalErr evaluates whether there is an error. If there is, was it the

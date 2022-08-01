@@ -16,8 +16,8 @@ package authn
 
 import (
 	"context"
-	"github.com/greenpau/go-authcrunch/pkg/requests"
-	"github.com/greenpau/go-authcrunch/pkg/util"
+	"github.com/datamixio/lib-go-authcrunch/pkg/requests"
+	"github.com/datamixio/lib-go-authcrunch/pkg/util"
 	"net/http"
 	"strings"
 )

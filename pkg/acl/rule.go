@@ -17,8 +17,8 @@ package acl
 import (
 	"context"
 	"fmt"
-	"github.com/greenpau/go-authcrunch/pkg/errors"
-	cfgutil "github.com/greenpau/go-authcrunch/pkg/util/cfg"
+	"github.com/datamixio/lib-go-authcrunch/pkg/errors"
+	cfgutil "github.com/datamixio/lib-go-authcrunch/pkg/util/cfg"
 	"go.uber.org/zap"
 	"strings"
 	"sync/atomic"

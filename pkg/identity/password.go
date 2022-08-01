@@ -15,7 +15,7 @@
 package identity
 
 import (
-	"github.com/greenpau/go-authcrunch/pkg/errors"
+	"github.com/datamixio/lib-go-authcrunch/pkg/errors"
 	"golang.org/x/crypto/bcrypt"
 	"strconv"
 	"strings"

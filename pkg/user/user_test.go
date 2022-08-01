@@ -17,8 +17,8 @@ package user
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/greenpau/go-authcrunch/internal/tests"
-	"github.com/greenpau/go-authcrunch/pkg/errors"
+	"github.com/datamixio/lib-go-authcrunch/internal/tests"
+	"github.com/datamixio/lib-go-authcrunch/pkg/errors"
 	"testing"
 	"time"
 )

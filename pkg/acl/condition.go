@@ -16,7 +16,7 @@ package acl
 
 import (
 	"context"
-	"github.com/greenpau/go-authcrunch/pkg/errors"
+	"github.com/datamixio/lib-go-authcrunch/pkg/errors"
 	"regexp"
 	"strings"
 )

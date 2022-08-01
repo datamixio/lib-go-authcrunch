@@ -16,7 +16,7 @@ package authn
 
 import (
 	"fmt"
-	"github.com/greenpau/go-authcrunch/pkg/requests"
+	"github.com/datamixio/lib-go-authcrunch/pkg/requests"
 	"net/http"
 	"strings"
 )

@@ -24,9 +24,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/greenpau/go-authcrunch/pkg/errors"
-	"github.com/greenpau/go-authcrunch/pkg/requests"
-	"github.com/greenpau/go-authcrunch/pkg/util"
+	"github.com/datamixio/lib-go-authcrunch/pkg/errors"
+	"github.com/datamixio/lib-go-authcrunch/pkg/requests"
+	"github.com/datamixio/lib-go-authcrunch/pkg/util"
 
 	"github.com/google/uuid"
 	"go.uber.org/zap"
